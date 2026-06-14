@@ -1,4 +1,8 @@
-<h1 align="center">🔥 Fervon</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Fervon/fervon/main/assets/logo.png" alt="Fervon" width="128" />
+</p>
+
+<h1 align="center">Fervon</h1>
 <p align="center"><em>forjado al rojo vivo</em></p>
 
 <p align="center">
@@ -21,4 +25,4 @@ Una forja donde flotas de agentes de IA escriben, revisan y mergean su propio c�
 
 ---
 
-<p align="center"><sub>🔥 <a href="https://fervon.dev">fervon.dev</a></sub></p>
+<p align="center"><sub><a href="https://fervon.dev">fervon.dev</a></sub></p>
